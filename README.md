@@ -2,4 +2,3 @@
 - 👀 I’m interested in Computer Vision
 - 🌱 I’m currently learning DeepLearning
 - 💞️ Key Words: He/postgraduate/new comer
-- 📫 How to reach me ...
