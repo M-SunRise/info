@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SUNJINGHUI28
+- 👋 Hi, I’m @M-SunRise
 - 👀 I’m interested in Computer Vision
 - 🌱 I’m currently learning DeepLearning
 - 💞️ Key Words: He/postgraduate/new comer
